@@ -28,9 +28,9 @@ Householder transformations are used to zero out subdiagonal elements of a matri
 
 Givens rotations are used to introduce zeros in a matrix one element at a time. This method is particularly useful for sparse matrices, where only a few rotations are needed to achieve a QR decomposition.
 
-### Examples and tests 💡
+## Examples and tests 💡
 The project includes several example scripts demonstrating how to use each of the QR algorithms. These examples cover matrices of different sizes and structures, showcasing the strengths and limitations of each method.
 
-### Contributing 🤝
+## Contributing 🤝
 Contributions are welcome! Please submit a pull request or open an issue to discuss your ideas or report any bugs.
 Feel free to contact me on my social accounts. You can find them in my bio
