@@ -1,4 +1,4 @@
-# 🧠 Eigenvalue Computation with QR Algorithms
+# 🧮 Eigenvalue Computation with QR Algorithms
 
 ## Overview 📚
 
