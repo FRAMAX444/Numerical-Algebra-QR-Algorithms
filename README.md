@@ -31,5 +31,6 @@ Givens rotations are used to introduce zeros in a matrix one element at a time. 
 ## Examples and tests 💡
 The project includes several example scripts demonstrating how to use each of the QR algorithms. These examples cover matrices of different sizes and structures, showcasing the strengths and limitations of each method.
 
-## Contributing 🤝
-Contributions are welcome! Feel free to contact me on my social accounts if you find bugs or have improvements in mind. You can find them in my bio
+## 🤝 Contributing
+
+I welcome contributions to this project! If you have suggestions or find bugs, please contact me on my email. You can find it in my bio
